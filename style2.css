@@ -81,3 +81,22 @@
 	padding-bottom: 7px;
 	font-weight: 400;
 }
+.mm-grp-10-head{
+	padding-top: 50px;
+	padding-bottom: 35px; 
+	text-align: center;
+}
+.mm-grp-10-head h2{
+	margin: 0;
+	color: #071a42;
+	line-height: 52px;
+	font-weight: 400;
+	text-transform: capitalize;
+}
+.mm-grp-10-des{
+	margin-bottom: 25px;
+}
+.mm-grp-10-des p{
+	margin-bottom: 20px;
+	font-weight: 400;
+}
