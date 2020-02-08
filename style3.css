@@ -1,6 +1,6 @@
 .mm-group-sec-13{
 	padding-top: 75px;
-	padding-bottom: 40px;
+	padding-bottom: 30px;
 }
 .true-cause-head{
 	text-align: center;
@@ -8,7 +8,7 @@
 .true-cause-head h2{
 	margin: 0;
 	color: #fff;
-	margin-bottom: 30px;
+	margin-bottom: 35px;
 }
 .true-cause-head h2 strong{
 	display: inline-block;
@@ -16,6 +16,201 @@
 	font-style: italic;
 	color: #ffe400;
 }
+.true-cause-dsc-btm,
 .true-cause-dsc{
 	color: #fff;
 }
+
+.mm-group-sec-14{
+	padding-top: 65px;
+	padding-bottom: 25px;
+}
+.mm-group-sec-14-head h2{
+	margin: 0;
+	color: #071a42;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.mm-group-sec-14-tp-dsc{
+	margin-top: -5px;
+}
+.mm-group-sec-14-m-img{
+	padding-top: 20px;
+}
+.mm-group-sec-14-middle-dsc{
+	padding-top: 5px;
+}
+.mm-group-sec-14-dsc ul,
+.mm-group-sec-14-middle-dsc ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.mm-group-sec-14-dsc ul li,
+.mm-group-sec-14-middle-dsc ul li{
+	padding-left: 25px;
+	padding-bottom: 20px;
+	font-size: 22px;
+	font-family: "Montserrat-Regular";
+	position: relative;
+}
+.mm-group-sec-14-dsc ul li img,
+.mm-group-sec-14-middle-dsc ul li img{
+	position: absolute;
+	left: 0;
+	top: 3px;
+	max-width: 18px;
+	width: 100%;
+}
+.mm-group-sec-14-f-img{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.mm-group-sec-14-f-dsc p em{
+	font-style: normal;
+	font-weight: bold;
+}
+.mm-group-sec-14-profile{
+	padding: 15px 25px 10px;
+}
+.mm-group-sec-14-profile ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.mm-group-sec-14-profile ul li{
+	-webkit-box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    -moz-box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    border-radius: 25px;
+    background:#fff;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+.mm-group-sec-14-profile-inr{
+	display: flex;
+	align-items: center;
+	background:#0370c9;
+	border-radius: 25px;
+	padding: 7px;
+}
+.mm-group-sec-14-profile-img{
+	float: left;
+}
+.mm-group-sec-14-profile-dsc{
+	padding: 20px 20px 20px 20px;
+	color: #fff;
+}
+.mm-group-sec-14-profile-dsc p{
+	margin-bottom: 13px;
+}
+.mm-group-sec-14-profile-dsc em{
+	font-size: 22px;
+	font-family: "Montserrat-BoldItalic";
+	font-style: italic;
+	line-height: 1.1;
+}
+.mm-group-sec-15{
+	padding-bottom: 20px;
+}
+.mm-group-sec-15-wrp{
+	background:#fff;
+	-webkit-box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    -moz-box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    border-radius: 5px;
+    padding-bottom: 10px;
+}
+.mm-group-sec-15-head{
+	color: #fff;
+	padding: 15px 20px 15px;
+	margin-bottom: 35px;
+}
+.mm-group-sec-15-head h2{
+	margin: 0;
+}
+.mm-group-sec-15-dsc {
+    padding-left: 32px;
+    padding-right: 5px;
+}
+
+
+.mm-group-sec-16-head{
+	max-width: 845px;
+	width: 100%;
+	margin: 0 auto;
+	background-repeat: no-repeat !important;
+	background-position: center center !important;
+	background-size: cover !important;
+	text-align: center;
+	padding: 33px 15px 37px 140px;
+	position: relative;
+	margin-bottom: 35px;
+}
+.mm-group-sec-16-head strong{
+	position: absolute;
+	left: 30px;
+	top: 25px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #fff;
+}
+.mm-group-sec-16-head h3{
+	margin: 0;
+	color: #071a42;
+}
+
+.mm-group-sec-16-img img{
+	margin-right: -20px;
+}
+.mm-group-sec-16-full-img{
+	padding-bottom: 25px;
+}
+.mm-group-sec-16{
+	padding-bottom: 15px;
+}
+
+.mm-group-sec-17{
+	padding-top: 65px;
+	padding-bottom: 30px;
+}
+.mm-group-sec-17-head{
+	text-align: center;
+	color: #fff;
+}
+.mm-group-sec-17-head h2{
+	margin-bottom: 25px;
+}
+.mm-group-sec-17-dsc{
+	color: #fff;
+}
+.mm-group-sec-17-dsc p strong{
+	display: inline-block;
+	vertical-align: baseline;
+	color: #ffe400;
+	font-family: "Montserrat-Bold";
+}
+
+.mm-group-sec-18{
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+.mm-group-sec-18-head h2{
+	text-align: center;
+	color: #071a42;
+	margin: 0;
+	margin-bottom: 35px;
+}
+.mm-group-sec-18-img img{
+	width: 100%;
+}
+
+.mm-group-sec-19-lft-dsc{
+	padding-left: 30px;
+}
+
+.mm-group-sec-20{
+	padding: 45px 0;
+}
+
+
