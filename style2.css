@@ -100,3 +100,48 @@
 	margin-bottom: 20px;
 	font-weight: 400;
 }
+.mm-group-sec-11{
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 70px;
+	padding-bottom: 20px;
+}
+.mm-grp-11-hdr h2{
+	margin: 0;
+	color: #fff;
+	text-align: center;
+	margin-bottom: 45px;
+	font-weight: 400;
+}
+.mm-grp-11-row-1-img img{
+	width: 100%;
+}
+.mm-grp-11-row-1-des p,
+.mm-grp-11-row-2-des p{
+	color: #fff;
+}
+.mm-grp-11-row-2-des p strong{
+	color: #ffe400;
+	font-weight: 700;
+	font-family: "Montserrat-Bold";
+}
+.mm-grp-11-row-2-des p sup{
+	display: inline-block;
+}
+.mm-group-sec-12{
+	padding-top: 45px;
+}
+.mm-grp-12-row-1-des{
+	padding-top: 70px;
+}
+.mm-grp-12-row-1-img{
+	margin-bottom: 45px;
+}
+.mm-grp-12-row-1-img img,
+.mm-grp-12-row-2-img img{
+	width: 100%;
+}
+.mm-grp-12-row-2-des{
+	padding-top: 130px;
+}
