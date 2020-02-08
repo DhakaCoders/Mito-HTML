@@ -1,5 +1,17 @@
 .mm-group-sec-1{
 	padding: 60px 0 110px;
+	color: #fff;
+}
+.mm-group-sec-1-inr > span{
+	color: #ffe400;
+	font-size: 24px;
+	line-height: 26px;
+	display: block;
+	font-family: "MyriadPro-Regular";
+	padding: 0 0 45px 135px;
+}
+.mm-group-sec-1 h1{
+	text-transform: uppercase;
 }
 
 
