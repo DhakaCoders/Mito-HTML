@@ -1,0 +1,21 @@
+.mm-group-sec-13{
+	padding-top: 75px;
+	padding-bottom: 40px;
+}
+.true-cause-head{
+	text-align: center;
+}
+.true-cause-head h2{
+	margin: 0;
+	color: #fff;
+	margin-bottom: 30px;
+}
+.true-cause-head h2 strong{
+	display: inline-block;
+	vertical-align: baseline;
+	font-style: italic;
+	color: #ffe400;
+}
+.true-cause-dsc{
+	color: #fff;
+}
