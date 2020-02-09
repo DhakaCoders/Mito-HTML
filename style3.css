@@ -1,5 +1,5 @@
 .mm-group-sec-13{
-	padding-top: 75px;
+	padding-top: 70px;
 	padding-bottom: 30px;
 }
 .true-cause-head{
@@ -35,10 +35,11 @@
 	margin-top: -5px;
 }
 .mm-group-sec-14-m-img{
-	padding-top: 20px;
+	padding-top: 15px;
 }
-.mm-group-sec-14-middle-dsc{
-	padding-top: 5px;
+.mm-group-sec-14-middle-dsc {
+    padding-top: 5px;
+    padding-bottom: 10px;
 }
 .mm-group-sec-14-dsc ul,
 .mm-group-sec-14-middle-dsc ul{
@@ -98,7 +99,7 @@
 	float: left;
 }
 .mm-group-sec-14-profile-dsc{
-	padding: 20px 20px 20px 20px;
+	padding: 15px 20px 15px 20px;
 	color: #fff;
 }
 .mm-group-sec-14-profile-dsc p{
@@ -111,7 +112,7 @@
 	line-height: 1.1;
 }
 .mm-group-sec-15{
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 }
 .mm-group-sec-15-wrp{
 	background:#fff;
@@ -160,8 +161,12 @@
 	color: #071a42;
 }
 
+.mm-group-sec-16-m-full-dsc{
+	padding-top: 15px;
+}
+
 .mm-group-sec-16-img img{
-	margin-right: -20px;
+	width: 100%;
 }
 .mm-group-sec-16-full-img{
 	padding-bottom: 25px;
@@ -188,7 +193,7 @@
 	display: inline-block;
 	vertical-align: baseline;
 	color: #ffe400;
-	font-family: "Montserrat-Bold";
+	font-family: "Montserrat-Regular";
 }
 
 .mm-group-sec-18{
@@ -211,6 +216,21 @@
 
 .mm-group-sec-20{
 	padding: 45px 0;
+}
+
+.mm-group-sec-19-rgt-dsc p span {
+    background-repeat: no-repeat!important;
+    background-size: 100%!important;
+    background-position: center center!important;
+    padding: 0 5px 2px;
+    margin-left: -4px;
+    margin-right: -4px;
+}
+.mm-group-sec-19-rgt-dsc {
+    padding-right: 38px;
+}
+.mm-group-sec-19-lft-img{
+	padding-left: 40px;
 }
 
 
