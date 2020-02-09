@@ -303,6 +303,24 @@
 	.show-md{
 		display: block!important;
 	}
+	.mm-group-sec-1 h1 br{
+		display: none;
+	}
+	h1 {
+	  font-size: 65px
+	}
+	h2 {
+	  font-size: 48px
+	}
+	h3 {
+	  font-size: 42px
+	}
+	h4 {
+	  font-size: 30px
+	}
+	h5 {
+	  font-size: 26px    
+	}
 	
 }
 
