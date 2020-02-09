@@ -1,3 +1,6 @@
+.page-1-ctlr{
+	overflow: hidden;
+}
 .mm-group-sec-1{
 	padding: 62px 0 110px;
 	color: #fff;
@@ -303,9 +306,6 @@
 	.show-md{
 		display: block!important;
 	}
-	.mm-group-sec-1 h1 br{
-		display: none;
-	}
 	h1 {
 	  font-size: 65px
 	}
@@ -321,7 +321,27 @@
 	h5 {
 	  font-size: 26px    
 	}
-	
+	.mm-group-sec-1-inr > span{
+		padding-bottom: 35px;
+		padding-left: 100px;
+	}
+	.mm-group-sec-1 h1 br{
+		display: none;
+	}
+	.mm-group-sec-1-inr p,
+	.mm-group-sec-1-testi em{
+		font-size: 30px;
+	}
+	.mm-group-sec-1-testi span{
+		font-size: 26px;
+	}
+	.mm-group-sec-1-testi em{
+		padding-bottom: 20px;
+	}
+	.mm-group-sec-1{
+		padding-bottom: 80px;
+		padding-top: 50px;
+	}
 }
 
 @media(max-width: 767px){
@@ -352,6 +372,19 @@
 	p {
 	 margin-bottom: 20px;
 	}
+	.mm-group-sec-1-inr p,
+	.mm-group-sec-1-testi em{
+		font-size: 28px;
+	}
+	.mm-group-sec-1-testi span{
+		font-size: 25px;
+	}
+	.mm-group-sec-1-inr > span{
+		font-size: 22px;
+	}
+	.mm-group-sec-1-inr p br{
+		display: none;
+	}
 
 }
 
@@ -376,5 +409,21 @@
 	}
 	h5 {
 	  font-size: 22px    
+	}
+	.mm-group-sec-1-inr > span{
+		padding-left: 60px;
+	}
+	.mm-group-sec-1-inr p{
+		padding-left: 40px;
+	}
+	.mm-group-sec-1-testi em{
+		padding-left: 20px;
+	}
+	.mm-group-sec-1-testi span{
+		padding-left: 50px;
+		font-size: 22px;
+	}
+	.mm-group-sec-1-inr p, .mm-group-sec-1-testi em {
+	    font-size: 25px;
 	}
 }
