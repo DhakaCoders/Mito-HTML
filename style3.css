@@ -41,12 +41,16 @@
     padding-top: 5px;
     padding-bottom: 10px;
 }
+.mm-group-sec-37-btm-dsc ul,
+.mm-group-sec-35-list-dsc ul,
 .mm-group-sec-17-dsc ul,
 .mm-group-sec-17-middle-dsc ul{
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
+.mm-group-sec-37-btm-dsc ul li,
+.mm-group-sec-35-list-dsc ul li,
 .mm-group-sec-17-dsc ul li,
 .mm-group-sec-17-middle-dsc ul li{
 	padding-left: 25px;
@@ -55,6 +59,8 @@
 	font-family: "Montserrat-Regular";
 	position: relative;
 }
+.mm-group-sec-37-btm-dsc ul li img,
+.mm-group-sec-35-list-dsc ul li img,
 .mm-group-sec-17-dsc ul li img,
 .mm-group-sec-17-middle-dsc ul li img{
 	position: absolute;
