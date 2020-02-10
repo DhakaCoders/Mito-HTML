@@ -203,10 +203,8 @@
 	color: #fff;
 }
 .mm-group-sec-20-dsc p strong{
-	display: inline-block;
-	vertical-align: baseline;
 	color: #ffe400;
-	font-family: "Montserrat-Regular";
+	font-family: "Montserrat-Bold";
 }
 
 .mm-group-sec-21{
@@ -231,13 +229,16 @@
 	padding: 45px 0;
 }
 
-.mm-group-sec-22-rgt-dsc p span {
+.mm-group-sec-22-rgt-dsc p span{
     background-repeat: no-repeat!important;
     background-size: 100%!important;
     background-position: center center!important;
     padding: 0 5px 2px;
     margin-left: -4px;
     margin-right: -4px;
+}
+.mm-group-sec-22-rgt-dsc p span strong{
+	font-family: "Montserrat-Bold";
 }
 .mm-group-sec-22-rgt-dsc {
     padding-right: 38px;
