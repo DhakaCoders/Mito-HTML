@@ -1,4 +1,4 @@
-.mm-group-sec-8-head h2{
+.mm-group-sec-8-hdr h2{
 	margin: 0;
 	color: #071a42;
 	text-align: center;
@@ -9,9 +9,7 @@
 .mm-grp-sec-8-row-1-des-inner{
 	padding-right: 15px;
 }
-.mm-grp-sec-8-row-1-des p{
-	font-weight: 400;
-}
+
 .mm-grp-sec-8-row-1-item ul li{
 	margin-bottom: 25px;
 	padding-left: 30px;
@@ -35,16 +33,21 @@
 	min-height: 225px;
 }
 .mm-grp-sec-8-row-2-des{
-	margin-bottom: 28px;
+	margin-bottom: 65px;
 }
-.mm-grp-sec-8-row-2-des p{
-	padding-bottom: 7px;
-	font-weight: 400;
-}
+
 .mm-group-sec-9-inner{
 	background: #fff;
+	border-radius: 20px;
+	border: 1px solid #fff;
+	box-shadow: rgba(255,255,255,0.7);
 }
-.mm-group-sec-9-head h2{
+.mm-group-sec-9-hdr{
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.mm-group-sec-9-hdr h2{
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 32px;
@@ -71,7 +74,7 @@
 }
 
 .mm-grp-9-row-2-img{
-	height: 485px;
+	height: 525px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -81,8 +84,10 @@
 	padding-bottom: 7px;
 	font-weight: 400;
 }
-.mm-grp-10-head{
+.mm-group-sec-10{
 	padding-top: 50px;
+}
+.mm-grp-10-hdr{
 	padding-bottom: 35px; 
 	text-align: center;
 }
@@ -96,9 +101,8 @@
 .mm-grp-10-des{
 	margin-bottom: 25px;
 }
-.mm-grp-10-des p{
-	margin-bottom: 20px;
-	font-weight: 400;
+.mm-grp-10-img img{
+	min-height: 755px;
 }
 .mm-group-sec-11{
 	background-position: center center;
@@ -165,6 +169,8 @@
 }
 .mm-grp-14-inner{
 	background: #fff;
+	border-radius: 20px;
+	box-shadow: rgba(255,255,255,0.7);
 }
 .mm-grp-14-hdr{
 	background-position: center center;
@@ -180,12 +186,21 @@
 	font-weight: 400;
 	text-transform: capitalize;
 }
+.mm-grp-14-row-des-inner{
+	margin-left: 30px;
+}
+.mm-grp-14-row-des{
+	margin-top: 30px;
+}
 .mm-grp-14-row-1-img{
-	margin-left: 45px;
+	margin-left: 15px;
 	margin-bottom: 10px;
 }
 .mm-grp-14-row-1-img img{
 	width: 100%;
+}
+.mm-grp-14-row-1-des{
+	margin-top: 85px;
 }
 .mm-grp-14-row-1-des,
 .mm-grp-14-row-2-img{
@@ -210,8 +225,11 @@
 	padding-top: 35px;
 	padding-bottom: 42px;
 }
+.mm-grp-14-row-3-des-left-innr{
+	margin-left: 30px;
+}
 .mm-grp-14-row-3-img{
-	margin-left: 50px;
+	margin-left: 20px;
 }
 .mm-grp-14-row-3-des{
 	margin-top: 100px;
