@@ -1,112 +1,6 @@
-.fl-absolute-grd-1{
-    margin-bottom: 35px;
-}
-.fl-absolute-grd-1 .fl-absolute-grd-1-two-part {
-    position: relative;
-    padding: 36px 0;
-    z-index: 1;
-}
-.fl-absolute-grd-1 .fl-absolute-grd-img-1{
-    background-repeat: no-repeat!important;
-    background-position: center center!important;
-    background-size: cover!important;
-    position: absolute;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 36%;
-    z-index: 2;
-    border: 5px solid #f0e8dc;
-} 
-.fl-absolute-grd-1 .fl-absolute-grd-1-des {
-    position: relative;
-    z-index: 3;
-    width: 52%;
-    background: #fffc;
-    padding: 30px 40px 25px 30px;
-    -webkit-box-shadow: -2px 2px 13px 0px rgba(191,189,189,1);
-    -moz-box-shadow: -2px 2px 13px 0px rgba(191,189,189,1);
-    box-shadow: -2px 2px 13px 0px rgba(191,189,189,1);
-}
-.fl-absolute-grd-1 .fl-absolute-grd-1-des p:last-child{
-    margin-bottom: 0;
-}
-
-.fl-sec-entry-hdr{
-    background-repeat: no-repeat!important;
-    background-size: cover!important;
-    background-position: center bottom 1px!important;
-    border-radius: 8px 8px 0 0;
-    margin-bottom: 25px;
-    padding: 15px 20px 40px;
-}
-.fl-sec-entry-hdr h2{
-    margin-top: 0;
-    color: #fff;
-    text-align: center;
-    margin-bottom: 0;
-    font-size: 50px;
-    font-family: 'TitilliumWeb-Bold';
-}
-
-.rare-root-feature-wrp ul li {
-    position: relative;
-    padding-bottom: 130px;
-}
-.rare-root-feature-wrp ul li > img {
-    position: absolute;
-    right: 0;
-    bottom: 67px;
-    z-index: 3;
-}
-.rare-root-feature-wrp-single{
-    padding-top: 60px;
-}
-.rare-root-feature-wrp-single .rare-root-feature-wrp ul li > img{
-    bottom: 40px;
-}
-.rare-root-feature-des-hdr{
-    text-align: center;
-    padding-bottom: 25px;
-}
-.rare-root-feature-des-hdr img{
-    padding-right: 10px;
-    padding-left: 10px;
-}
-.rare-root-feature-des-hdr h2{
-    margin-bottom: 0;
-    padding: 25px 10px 10px;
-    font-size: 40px;
-    font-family: 'TitilliumWeb-Bold';
-}
-.rare-root-feature-wrp ul li .rare-root-feature-des {
-    width: 68%;
-    float: left;
-    border: 10px solid #000;
-    position: relative;
-    z-index: 2;
-}
-.rare-root-feature-des-ftr{
-    padding: 0 216px 25px 35px;
-}
-.rare-root-feature-des-ftr p:last-child{
-    margin-bottom: 0;
-}
-
-
-
-
-
-
 .dst-ml-15 {
     margin-left: -15px;
 }
-
-
-
-
-
-
 .dft-text-module p span{
     display: inline-block;
     vertical-align: baseline;
@@ -145,7 +39,6 @@ span.text-inline-mark-left{
     font-style: normal;
 }
 
-
 .fl-ftr-top-sec .dft-text-module{
     padding-right: 20px;
 }
@@ -155,9 +48,6 @@ span.text-inline-mark-left{
     font-weight: normal;
     font-family: 'SourceSansPro-Bold';
 }
-
-
-
 .fl-ftr-top-sec{
     padding-bottom: 27px;
 }
@@ -189,30 +79,9 @@ span.text-inline-mark-left{
     padding-top: 0;
 }
 
-
-.fl-pkg-sec-bg-hdr{
-    background-repeat: no-repeat!important;
-    background-size: cover!important;
-    background-position: center bottom 1px!important;
-    border-radius: 8px 8px 0 0;
-    margin-bottom: 85px;
-    padding: 15px 20px 40px;
-    border-top: 1px solid #fff;
-    border-bottom: 1px solid #fff;
+.fl-pkg-grd-controller > ul{
+    margin: 0 -10px;
 }
-.fl-pkg-sec-bg-hdr h2{
-    margin-top: 0;
-    color: #fff;
-    text-align: center;   
-    margin-bottom: 0;
-    font-size: 50px;
-    font-family: 'TitilliumWeb-Bold';
-}
-.fl-pkg-sec-bg-hdr h2 span{
-    display: inline-block;
-    vertical-align: baseline;
-}
-
 
 .fl-pkg-grd-controller > ul > li{
     float: left;
@@ -274,15 +143,15 @@ span.text-inline-mark-left{
     padding-bottom: 10px;
 }
 .fl-pkg-grd-controller > ul > li:nth-child(2) .fl-pkg-grd-ftr ul{
-    padding-top: 10px;
+    padding-top: 5px;
 }
 
 .fl-pkg-grd-controller > ul > li:nth-child(2) .fl-pkg-grd-col-fea-img{
-    padding-bottom: 45px;
-    padding-top: 50px;
+    padding-bottom: 55px;
+    padding-top: 70px;
 }
 .fl-pkg-grd-controller > ul > li:nth-child(2) .fl-pkg-grd-ftr{
-    padding-top: 25px;
+    padding-top: 45px;
 }
 .fl-pkg-grd-col-hdr{
     border-radius: 5px 5px 0 0;
@@ -290,6 +159,7 @@ span.text-inline-mark-left{
 .fl-pkg-grd-col-hdr span,.fl-pkg-grd-col-hdr strong{
     display: block;
 }
+
 .fl-pkg-grd-col-hdr{
     text-transform: uppercase;
     text-align: center;
@@ -298,13 +168,14 @@ span.text-inline-mark-left{
     background-size: cover!important;
 }
 .fl-pkg-grd-col-hdr span{
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 38px;
     font-family: 'BarlowCondensed-Bold';
     padding: 20px 10px 30px;
     background-repeat: repeat-x!important;
     border-radius: 5px 5px 0 0;
     text-shadow: 0px 1px #019bd4;
+    letter-spacing: 2px;
 }
 .order1 .fl-pkg-grd-col-hdr span{
     text-shadow: 0px 1px #b82121;
@@ -323,7 +194,7 @@ span.text-inline-mark-left{
     margin: 0 auto;
     position: relative;
     display: table;
-    padding: 28px 15px 35px;
+    padding: 35px 0 45px;
 }
 .fl-pkg-grd-col-fea-img div{
     display: inline-block;
@@ -332,7 +203,7 @@ span.text-inline-mark-left{
 .fl-pkg-grd-col-fea-img span{
     position: absolute;
     right: 32px;
-    top: 16px;
+    bottom: 0;
 }
 .order3 .fl-pkg-grd-col-fea-img span{
     right: 0;
@@ -346,16 +217,13 @@ span.text-inline-mark-left{
     border: 3px solid #fff;
     border-radius: 8px;
 }
-
-
-
 .fl-creditcards{
     padding-left: 8px;
     padding-top: 5px;
 }
 .fl-pkg-save-price {
     color: #000000;
-    padding-top: 15px;
+    padding-top: 0;
 }
 .fl-pkg-save-price del {
     display: inline-block;
@@ -490,75 +358,60 @@ span.text-inline-mark-left{
 
 
 
+.ml-10{
+    margin-left: -10px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.inline-branding{
+    background-color: transparent;
+    background-size: 100% 100%!important;
+    padding: 0 10px 0 5px;
+    margin-left: -5px;
+    font-family: "Montserrat-BoldItalic";
+    display: inline-block;
+}
+.fl-pkg-divider-des-sec{
+    padding: 0 0 14px 0;
+}
+
+.fl-pkg-divider-des-cntlr p span{
+    display: inline-block;
+    vertical-align: baseline;
+    padding-left: 15px;
+    padding-right: 30px;
+    background-size: 100% 100%!important;
+    margin-left: -15px;
+}
+.fl-pkg-divider-des-cntlr p span strong{
+    font-family: "Montserrat-Bold";
+}
+
+.mm-part-2-blue-sec{
+    color: #fff;
+    padding-top: 55px;
+    padding-bottom: 64px;
+    margin-bottom: 52px;
+}
+
+
+
+
 
 @media(max-width: 1199px){
-    .hide-md{
-        display: none!important;
-    }
-    .show-md{
-        display: block!important;
-    }
     .fl-ftr-top-sec .dft-text-module {
         padding-right: 40px;
-    }
-    .out-stock-sec-grd-img-1{
-        text-align: center;
-        padding-bottom: 25px;
-    }
-    .out-stock-sec-grd-img-1 img{
-        max-width: 400px;
-        width: 100%;
-    }
-    .out-stock-sec-grd-img-2{
-        padding-bottom: 25px;
-    }
-    .rare-root-feature-des-ftr{
-        padding-right: 230px;
-    }
-    .rare-root-feature-des-hdr h2 br{
-        display: none;
     }
 }
 
 
 @media(max-width: 1023px){
-    .rare-root-feature-wrp ul li{
-        text-align: center;
-    }
-    .rare-root-feature-wrp ul li > img{
-        position: static;
-        margin-bottom: 25px;
-    }
-    .rare-root-feature-wrp ul li .rare-root-feature-des{
-        width: 100%;
-    }
-    .rare-root-feature-des-hdr h2 br{
-        display: block;
-    }
-    .rare-root-feature-wrp ul li .rare-root-feature-des{
-        float: none;
-    }
-    .rare-root-feature-des-ftr {
-        padding-right: 20px;
-        padding-left: 20px;
-        text-align: left;
-    }
-    .rare-root-feature-wrp ul li {
-        padding-bottom: 50px;
-    }
+    
 }
 
 
 @media(max-width: 991px){
-    .hide-sm{
-        display: none!important;
-    }
-    .show-sm{
-        display: block!important;
-    }
-    p br{
-        display: none;
-    }
     .fl-pkg-grd-controller > ul > li {
         width: 100%;
         margin-bottom: 20px;
@@ -570,80 +423,19 @@ span.text-inline-mark-left{
     .fl-pkg-grd-controller > ul > li:nth-child(2) .fl-pkg-grd-col-btm-bdr {
         margin-top: 0;
     }
-    .out-stock-sec-grd-img-1,
-    .out-stock-sec-grd-img-2{
-        padding-bottom: 25px;
-    }
-    .fl-pkg-sec-bg-hdr{
-        margin-bottom: 45px;
-    }
-    .out-stock-sec-hdr h2{
-        font-size: 35px;
-    }
+
     .fl-ftr-top-sec .dft-text-module {
         padding-right: 0;
-    }
-    .fl-pkg-sec-bg-hdr h2{
-        font-size: 40px;
-    }
-    .fl-absolute-grd-1 .fl-absolute-grd-img-1{
-        position: static;
-        height: 350px;
-        max-width: 450px;
-        margin: 0 auto 25px;
-    }
-    .fl-absolute-grd-1 .fl-absolute-grd-1-des{
-        width: 100%;
-    }
-    .fl-absolute-grd-1 {
-        margin-bottom: 0;
-    }
-    .rare-root-feature-des-hdr h2,
-    .fl-sec-entry-hdr h2{
-        font-size: 35px;
-    }
-    .fl-blockquote-head{
-        padding: 35px 15px 45px;
     }
 }
 
 
 @media(max-width: 767px){
-    .hide-xs{
-        display: none!important;
-    }
-    .show-xs{
-        display: block!important;
-    }
     .fl-ftr-des{
         padding: 0;
     }
-    .out-stock-sec-hdr h2 {
-        font-size: 25px;
-    }
-    .out-stock-sec-hdr h2 br,
-    .fl-pkg-sec-bg-hdr h2 br{
-        display: none;
-    }
-    .fl-pkg-sec-bg-hdr h2 {
-        font-size: 35px;
-    }
-    .rare-root-feature-des-hdr h2,
-    .fl-sec-entry-hdr h2{
-        font-size: 31px;
-    }
-    .rare-root-feature-des-hdr h2 br{
-        display: none;
-    }
-    .fl-absolute-grd-1 .fl-absolute-grd-1-two-part{
-        padding-top: 5px;
-    }
     .fl-linked-low-head{
         padding: 25px 15px 35px;
-    }
-    .fl-sec-entry-hdr,
-    .fl-pkg-sec-bg-hdr{
-        padding: 19px 20px 32px;
     }
     .pkg-area-con-bg{
         padding-bottom: 30px;
@@ -653,9 +445,7 @@ span.text-inline-mark-left{
 
 
 @media(max-width: 639px){
-    .rare-root-feature-wrp ul li .rare-root-feature-des{
-        border: 5px solid #000;
-    }
+
 }
  
 
@@ -663,20 +453,6 @@ span.text-inline-mark-left{
 @media(max-width: 575px){
     .fl-creditcards{
         padding-left: 0;
-    }
-    .fl-pkg-sec-bg-hdr h2 br{
-        display: none;
-    }
-    .out-stock-sec-hdr h2 {
-        font-size: 25px;
-    }
-    .fl-pkg-sec-bg-hdr h2,
-    .rare-root-feature-des-hdr h2,
-    .fl-sec-entry-hdr h2 {
-        font-size: 29px;
-    }
-    .fl-pkg-sec-bg-hdr {
-        margin-bottom: 35px;
     }
 
 }
@@ -692,14 +468,6 @@ span.text-inline-mark-left{
     }
     .fl-footer-wrap{
         padding: 45px 0 55px;
-    }
-    .fl-pkg-sec-bg-hdr h2,
-    .rare-root-feature-des-hdr h2,
-    .fl-sec-entry-hdr h2 {
-        font-size: 26px;
-    }
-    .fl-blockquote-head{
-        padding: 35px 15px 40px;
     }
 
 
