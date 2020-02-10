@@ -1,0 +1,61 @@
+Page---3
+
+Desktop
+-----------------
+
+1. https://www.screencast.com/t/age78J9RA0
+	ai property gulo lagbe
+
+2. https://www.screencast.com/t/rwwzGQT50I2A
+	font-family missing
+
+3. https://www.screencast.com/t/kQVot1pX
+	ai class ta add koro. ai div a
+	bcoz img ta bottom content borabor hobe
+	kothao .ml-5 ata use korte hote pare abar kothao na use korte hote pare. sob section a check kore update kore nite hobe
+
+4. https://www.screencast.com/t/fDR3Shh8h
+	ai class ta add koro.
+	bcoz img ta uporer text borabor hobe
+	aivabe left and right img poritate lagle update korte hobe
+
+5. https://www.screencast.com/t/Ic0WfgnK2
+	ai icon ta top thake 5px daw
+
+6. https://www.screencast.com/t/7MMUKgkYvxa
+	center hobe
+
+7. https://www.screencast.com/t/gUGmV15JvjGI
+	ai font family ta use korte hobe. bold use kora jabena -> https://www.screencast.com/t/0Jsj7UnYHV6A
+
+8. https://www.screencast.com/t/sV1LzTkoxvIF
+	font-size lagbena. bcoz body tei 22 ache
+
+9. https://www.screencast.com/t/64WdgqFJOzw
+	ai property ta lagbena. bcoz italic font-family use korchi amra
+
+10. i) https://www.screencast.com/t/vcTxIRyb
+	white corner buja jasche
+	ii) https://www.screencast.com/t/p9qW5z0pqMxa
+	!important diye bg-property gulo dite hobe
+
+11. https://www.screencast.com/t/Ldl1BfVckg
+	center hobe
+
+12. https://www.screencast.com/t/6AuIZ3WgKVgt
+	bg-property gulo lagbe
+
+13. https://www.screencast.com/t/yrMIH438rk
+	ai headeing bg ar fix ager motoi hobe
+
+14. https://www.screencast.com/t/4401PSgdGxIU
+	center a daw
+
+15. https://www.screencast.com/t/HGXDP7562f
+	gap hobe
+
+16. https://www.screencast.com/t/xYVByMvrkv
+	ai section a left padding ta hobena
+
+17. 
+	
