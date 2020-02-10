@@ -296,6 +296,9 @@
 	.show-lg{
 		display: block!important;
 	}
+	p br{
+        display: none;
+    }
 
 }
 
