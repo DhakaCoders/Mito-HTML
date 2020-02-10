@@ -41,12 +41,16 @@
     padding-top: 5px;
     padding-bottom: 10px;
 }
+.mm-group-sec-37-btm-dsc ul,
+.mm-group-sec-35-list-dsc ul,
 .mm-group-sec-17-dsc ul,
 .mm-group-sec-17-middle-dsc ul{
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
+.mm-group-sec-37-btm-dsc ul li,
+.mm-group-sec-35-list-dsc ul li,
 .mm-group-sec-17-dsc ul li,
 .mm-group-sec-17-middle-dsc ul li{
 	padding-left: 25px;
@@ -55,6 +59,8 @@
 	font-family: "Montserrat-Regular";
 	position: relative;
 }
+.mm-group-sec-37-btm-dsc ul li img,
+.mm-group-sec-35-list-dsc ul li img,
 .mm-group-sec-17-dsc ul li img,
 .mm-group-sec-17-middle-dsc ul li img{
 	position: absolute;
@@ -197,10 +203,8 @@
 	color: #fff;
 }
 .mm-group-sec-20-dsc p strong{
-	display: inline-block;
-	vertical-align: baseline;
 	color: #ffe400;
-	font-family: "Montserrat-Regular";
+	font-family: "Montserrat-Bold";
 }
 
 .mm-group-sec-21{
@@ -225,13 +229,16 @@
 	padding: 45px 0;
 }
 
-.mm-group-sec-22-rgt-dsc p span {
+.mm-group-sec-22-rgt-dsc p span{
     background-repeat: no-repeat!important;
     background-size: 100%!important;
     background-position: center center!important;
     padding: 0 5px 2px;
     margin-left: -4px;
     margin-right: -4px;
+}
+.mm-group-sec-22-rgt-dsc p span strong{
+	font-family: "Montserrat-Bold";
 }
 .mm-group-sec-22-rgt-dsc {
     padding-right: 38px;

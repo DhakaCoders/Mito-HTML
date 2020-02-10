@@ -147,7 +147,7 @@
 }
 .p1-dft-txt-module-multiline-bg p span{
 	background-repeat: no-repeat!important;
-	background-size: 100%!important;
+	background-size: 100% 100%!important;
 	background-position: center center!important;
 	padding: 0 5px 2px;
 	margin-left: -4px;
@@ -161,9 +161,7 @@
 .pr-55{
 	padding-right: 55px!important;
 }
-.mm-group-sec-4-con{
-	margin-right: -20px;
-}
+
 .p1-dft-txt-module-multiline-bg{
 	padding-bottom: 26px;
 }
@@ -188,8 +186,9 @@
     margin-bottom: 38px;
     position: relative;
     background-repeat: no-repeat!important;
-    background-size: 100% 100%!important;
+    background-size: cover!important;
     background-position: center bottom 1px!important;
+    border-radius: 7px 7px 0 0;
 }
 .mm-group-sec-5-hdr h2{
 	text-transform: capitalize;
@@ -296,6 +295,9 @@
 	.show-lg{
 		display: block!important;
 	}
+	p br{
+        display: none;
+    }
 
 }
 
