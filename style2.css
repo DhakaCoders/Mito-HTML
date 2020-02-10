@@ -297,3 +297,123 @@
 .mr-12{
 	margin-right: -12px;
 }
+
+
+/*Responsive media*/
+
+@media(max-width: 1199px){
+	.mm-grp-sec-8-row-1-img,
+	.mm-grp-sec-8-row-2-img,
+	.mm-grp-9-row-1-img,
+	.mm-grp-9-row-2-img,
+	.mm-grp-10-img,
+	.mm-grp-11-row-1-img,
+	.mm-grp-12-row-1-img,
+	.mm-grp-12-row-2-img,
+	.mm-grp-13-row-1-img,
+	.mm-grp-13-row-2-img,
+	.mm-grp-13-row-3-img,
+	.mm-grp-14-row-1-img,
+	.mm-grp-14-row-2-img,
+	.mm-grp-14-row-3-img,
+	.mm-grp-14-row-4-img,
+	.mm-grp-15-row-1-img{
+        text-align: center !important;
+        padding-bottom: 20px !important;
+        margin-left: 0!important;
+        margin-right: 0!important;
+    }
+    .mr-20{
+		margin-right: 0;
+	}
+	.mr-12{
+		margin-right: 0;
+	}
+	.mm-grp-9-row-2-des {
+	    padding-right: 0px;
+	    padding-left: 30px;
+	    margin-top: 20px;
+	}
+	.mm-grp-14-row-1-des {
+	    margin-top: 0px;
+	    padding-left: 30px;
+	}
+	.mm-grp-14-row-2-des {
+	    margin-top: 20px;
+	}
+	.mm-grp-14-row-3-des {
+	    margin-top: 0px;
+	    padding-left: 30px;
+	}
+	.mm-grp-sec-8-row-2-des {
+	    margin-bottom: 50px;
+	}
+	.mm-grp-12-row-1-des {
+	    padding-top: 20px;
+	}
+	.mm-grp-12-row-2-des {
+	    padding-top: 50px;
+	}
+	.mm-group-sec-13 {
+	    padding-top: 30px;
+	}
+	.mm-grp-14-row-4-des {
+	    margin-top: 45px;
+	}
+	.mm-grp-14-row-4-img {
+	    margin-top: 0px;
+	    margin-bottom: 0px;
+	}
+
+}
+
+@media(max-width: 991px){
+	.mm-grp-sec-8-row-2-des {
+	    margin-bottom: 20px;
+	}
+	.mm-group-sec-10 {
+	    padding-top: 30px;
+	}
+	.mm-grp-10-hdr {
+	    padding-bottom: 20px;
+	}
+	.mm-group-sec-12 {
+	    padding-top: 20px;
+	}
+	.mm-grp-12-row-1-img {
+	    margin-bottom: 0px;
+	}
+	.mm-grp-12-row-2-des {
+	    padding-top: 0px;
+	}
+	.mm-group-sec-13 {
+	    padding-top: 21px;
+	}
+	.mm-grp-14-row-3-inner {
+	    padding-top: 20px;
+	    padding-bottom: 20px;
+	}
+	.mm-grp-14-row-4-des {
+	    margin-top: 20px;
+	}
+	.mm-group-sec-15 {
+	    margin-top: 20px;
+	}
+	.mm-grp-15-hdr h2 {
+	    margin-bottom: 20px;
+	}
+	.mm-group-sec-8-hdr h2 {
+		margin-bottom: 20px;
+	}
+}
+
+@media(max-width: 767px){
+	.mm-grp-sec-8-row-1-item ul li {
+	    margin-bottom: 15px;
+	}
+
+}
+
+@media(max-width: 575px){
+	
+}
