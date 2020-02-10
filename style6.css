@@ -361,6 +361,15 @@ span.text-inline-mark-left{
 .ml-10{
     margin-left: -10px;
 }
+.ml-5{
+    margin-left: -5px;
+}
+.mr-10{
+    margin-right: -10px;
+}
+.mr-5{
+    margin-right: -5px;
+}
 .pt-10{
     padding-top: 10px;
 }
@@ -416,7 +425,7 @@ span.text-inline-mark-left{
     .fl-ftr-top-sec .dft-text-module {
         padding-right: 40px;
     }
-    .ml-10{
+    .ml-10,.ml-5{
         margin-left: 0;
     }
     .mm-part-2-blue-sec-img,
