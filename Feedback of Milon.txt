@@ -1,3 +1,4 @@
+Part-1
 Page---3
 
 Desktop View
@@ -56,4 +57,51 @@ Desktop View
 
 16. https://www.screencast.com/t/xYVByMvrkv
 	ai section a left padding ta hobena
+
+
+new----
+
+17. https://www.screencast.com/t/ZBZwIOr3xFh
+	lege geche, gap hobe
+
+18. https://www.screencast.com/t/kqXZcp211
+	bg-size: 100% 100% hobe
+
 	
+
+Part-2
+Page---5
+
+Desktop View
+-----------------
+1. https://prnt.sc/r0ui4c
+	bg-positon ata daw
+
+2. https://www.screencast.com/t/ZzpYlFdRDid
+	gap kom hobe
+
+3. https://www.screencast.com/t/UnU4A14R
+	bg-postion ata daw
+
+4. https://www.screencast.com/t/P7NzxlbT
+	break hobe
+
+5. https://www.screencast.com/t/rmvLHyJSbm
+	bg-postion ata daw
+
+6. https://www.screencast.com/t/1AdtHmB6
+	italic font-family hobe
+
+7. https://www.screencast.com/t/9hTBVS8jt0G
+	ai space ta (&nbsp;) diye daw. bcoz ai word 2 ta khono brk hoye alada houa jabena . branding text ata
+
+8. https://www.screencast.com/t/ONSKNgUjH
+	aikhane aktu gap besi hobe
+
+
+New---->
+9. https://www.screencast.com/t/vIAe0RACZ
+	aigulo apply korle ata milbe. bakigulo hoyto onno dite hote pare
+
+10. https://www.screencast.com/t/ec6mcKgPPnPw
+	upore gap kom nicher gap besi hoiche

@@ -19,9 +19,9 @@
 .mm-group-sec-33 {
     padding-top: 58px;
     background-repeat: no-repeat !important;
-    background-position: bottom center !important;
+    background-position:center bottom!important;
     background-size: cover !important;
-    padding-bottom: 55px;
+    padding-bottom: 25px;
 }
 .mm-group-sec-34{
 	padding-top: 40px;
@@ -102,7 +102,10 @@
     padding-bottom: 40px;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background-position: bottom center !important;
+    background-position: center center !important;
+}
+.true-cause-dsc p em{
+	font-style: italic;
 }
 
 .mm-group-sec-37{
@@ -141,7 +144,7 @@
 .mm-group-sec-37-block p span {
     background-repeat: no-repeat!important;
     background-size: 100%!important;
-    background-position: center center!important;
+    background-position: center bottom 1px!important;
     padding: 7px 7px 7px 7px;
 }
 .mm-group-sec-34-mid-dsc p span strong,
@@ -164,6 +167,9 @@
 }
 .mm-group-sec-38-block-wrp{
 	padding: 0 30px 30px;
+}
+.mm-group-sec-38-profile-wrp{
+	padding-top: 8px;
 }
 .mm-group-sec-38-profile-wrp ul li{
 	padding-bottom: 15px;
@@ -271,6 +277,7 @@
 	.mm-group-sec-38-btm-dsc {
 	    padding-right: 0;
 	}
+	.mm-group-sec-35-lft-dsc p br,
 	.true-cause-dsc-btm p br{
 		display: none;
 	}
