@@ -49,3 +49,55 @@ Desktop---->
 15. https://www.screencast.com/t/F0zdFksfd5
 	gap besi hobe
 
+
+
+Part-2
+Desktop---->
+--------------
+1. https://www.screencast.com/t/lBKK7UWxlQE
+	top gap 80px hobe
+
+2. https://www.screencast.com/t/YqNuw0tQ
+	gap kom hobe
+	amon hobe ---> https://www.screencast.com/t/FrReBFFfks
+
+3. https://www.screencast.com/t/NO47rM2DQ
+	text-cente hobe
+
+4. https://www.screencast.com/t/m9AD6UVN
+	i) gap kom hobe
+	ii) max-width kom hobe
+
+5. https://www.screencast.com/t/aOUI7h4nfheD
+	color blue hobe
+
+6. https://www.screencast.com/t/fvYHMRyeo
+	gap kom hobe
+
+7. https://www.screencast.com/t/JcP9uLQrQHmE
+	ai property gulo daw
+
+8. https://www.screencast.com/t/YBh232xIV6Sf
+	i) width ata daw
+	ii) lavels text ar pore brk daw
+
+9. https://www.screencast.com/t/7GG1m9mXRCbB
+	ai step gulor jeta jemon gap diye mange korte hobe
+
+10. https://www.screencast.com/t/Oyc5Sh6C
+	aikhane italic font-family hobe. ami italic font gulo r check kortechina. tumi valo kore check kore update kore felo
+
+11. https://www.screencast.com/t/1HaarJtDh4B
+	ata missing
+
+12. https://www.screencast.com/t/1n63dece9K
+	break hobe
+
+13. https://www.screencast.com/t/PvMOACf0K
+	sup tag a hobe
+
+14. https://www.screencast.com/t/uggdJ7BH9N
+	jpg hobe r bg-property gulo lagbe
+
+	part 1 ao amon bg ache akta oitao same hobe. jpg and bg-property
+
