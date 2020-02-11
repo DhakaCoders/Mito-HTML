@@ -153,9 +153,9 @@
     font-size: 16px;
     line-height: 18px;
     font-family: "Montserrat-Regular";
-    position: absolute;
-    right: 30px;
-    top: 52%;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 15px;
 }
 .mm-group-sec-18-dsc {
     padding-left: 32px;
@@ -394,6 +394,9 @@
 	.mm-group-sec-19-head h3 {
 	    font-size: 28px;
 	    min-height: auto;
+	}
+	.mm-group-sec-18-head h2 sup{
+		padding-top: 12px;
 	}
 }
 
