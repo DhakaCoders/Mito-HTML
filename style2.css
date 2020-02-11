@@ -8,9 +8,13 @@
 .p2-multiline-bg span strong{
 	font-weight: normal;
 	font-family: "Montserrat-Bold";
+	color: #000;
 }
 .mm-grp-sec-8-row-1-item .p2-multiline-bg span{
 	padding-left: 10px;
+}
+.mm-group-sec-8{
+	padding-top: 55px;
 }
 .mm-group-sec-8-hdr h2{
 	margin: 0;
@@ -58,23 +62,22 @@
 	border-radius: 8px;
 }
 .mm-group-sec-9-hdr{
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
+	padding: 20px 30px 30px;
+	background-repeat: no-repeat !important;
+	background-position: center bottom 1px !important;
+	background-size: cover !important;
 	border-top-left-radius: 8px;
     border-top-right-radius: 8px;
+    margin-bottom: 30px;
 }
 .mm-group-sec-9-hdr h2{
 	text-align: center;
-	padding-top: 20px;
-	padding-bottom: 32px;
 	color: #fff;
-	font-weight: 400;
 	text-transform: capitalize;
+	margin: 0;
 }
 .mm-grp-9-row-1-des{
 	padding-left: 28px;
-	padding-top: 30px;
 }
 .mm-grp-9-row-1-des p{
 	padding-bottom: 5px;
@@ -111,11 +114,10 @@
 	padding-bottom: 35px; 
 	text-align: center;
 }
-.mm-grp-10-head h2{
+.mm-grp-10-hdr h2{
 	margin: 0;
 	color: #071a42;
 	line-height: 52px;
-	font-weight: 400;
 	text-transform: capitalize;
 }
 .mm-grp-10-des{
@@ -125,9 +127,9 @@
 	min-height: 755px;
 }
 .mm-group-sec-11{
-	background-position: center center;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-position: center center !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
 	padding-top: 70px;
 	padding-bottom: 20px;
 }
@@ -136,7 +138,7 @@
 	color: #fff;
 	text-align: center;
 	margin-bottom: 45px;
-	font-weight: 400;
+	line-height: 1.4;
 }
 .mm-grp-11-row-1-img img{
 	width: 100%;
@@ -150,7 +152,7 @@
 	font-weight: 700;
 	font-family: "Montserrat-Bold";
 }
-.mm-grp-11-row-2-des p:first-child strong{
+.mm-grp-11-row-2-des p strong em{
 	font-style: italic;
 }
 .mm-grp-11-row-2-des p sup{
@@ -174,6 +176,7 @@
 }
 .mm-group-sec-13{
 	padding-top: 50px;
+	padding-bottom: 30px;
 }
 .mm-grp-13-hdr h2{
 	margin: 0;
@@ -201,9 +204,9 @@
 	box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
 }
 .mm-grp-14-hdr{
-	background-position: center center;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-position: center center !important;
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
 	text-align: center;
 	padding-top: 20px;
 }
@@ -260,7 +263,7 @@
 	margin-left: 20px;
 }
 .mm-grp-14-row-3-des{
-	margin-top: 100px;
+	margin-top: 145px;
 }
 .mm-grp-14-row-4-des{
 	margin-left: 30px;
