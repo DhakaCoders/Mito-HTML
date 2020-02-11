@@ -1,0 +1,51 @@
+Part-1
+Desktop---->
+--------------
+1. https://www.screencast.com/t/TkXvs3xH
+	padding top ta dite hobe
+
+2. https://www.screencast.com/t/pDoeJWxSXfC
+	color black dite hobe
+
+3. https://www.screencast.com/t/aOa4P5Wpx
+   https://www.screencast.com/t/DN2pCBb4ITVn
+	important lagbe
+
+4. https://www.screencast.com/t/94VlfJWlMn
+	bottom khach kata gulo dekha jayna. 
+	amar page thake dekhe bg property gulo dite paro
+
+5. https://www.screencast.com/t/LcY4nzilptDJ
+	img ta text borabor aktu upore hobe. img ar top white space ta kete nite paro
+
+6.https://www.screencast.com/t/bkWB2TDvwki
+	sup tag a hobe
+
+7. https://www.screencast.com/t/x6saPXCA
+	blue color hobe
+
+8. https://www.screencast.com/t/ZeIh6rnXFLKz
+	i) font-weight lagbena. bocoz font-family use korchi amra
+	ii) line-height ata daw
+
+9. https://www.screencast.com/t/cvpGJYv6ig
+	break hobe
+
+10. https://www.screencast.com/t/jVlavT23NRO
+	ata fix korar time a amar kache bujay niye jaio
+
+11. https://www.screencast.com/t/LpieEu68k
+	break hobe
+
+12. https://www.screencast.com/t/gyheUMFKUBJ
+	gap besi hobe. ata fix korar time a amar kache bujay niye jaio
+
+13. https://www.screencast.com/t/pa3DLUvbM
+	gap besi hobe
+
+14. https://www.screencast.com/t/Soaw79uWJ4
+	atar fix ager motoi
+
+15. https://www.screencast.com/t/F0zdFksfd5
+	gap besi hobe
+
