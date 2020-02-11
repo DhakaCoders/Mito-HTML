@@ -57,6 +57,16 @@ Desktop View
 
 16. https://www.screencast.com/t/xYVByMvrkv
 	ai section a left padding ta hobena
+
+
+new----
+
+17. https://www.screencast.com/t/ZBZwIOr3xFh
+	lege geche, gap hobe
+
+18. https://www.screencast.com/t/kqXZcp211
+	bg-size: 100% 100% hobe
+
 	
 
 Part-2
@@ -88,4 +98,10 @@ Desktop View
 8. https://www.screencast.com/t/ONSKNgUjH
 	aikhane aktu gap besi hobe
 
-9. 
+
+New---->
+9. https://www.screencast.com/t/vIAe0RACZ
+	aigulo apply korle ata milbe. bakigulo hoyto onno dite hote pare
+
+10. https://www.screencast.com/t/ec6mcKgPPnPw
+	upore gap kom nicher gap besi hoiche
