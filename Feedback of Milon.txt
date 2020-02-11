@@ -1,10 +1,10 @@
 Page---3
 
-Desktop
+Desktop View
 -----------------
 
 1. https://www.screencast.com/t/age78J9RA0
-	ai property gulo lagbe
+	ai property gulo lagbe. Background cover korte hobe
 
 2. https://www.screencast.com/t/rwwzGQT50I2A
 	font-family missing
@@ -56,6 +56,4 @@ Desktop
 
 16. https://www.screencast.com/t/xYVByMvrkv
 	ai section a left padding ta hobena
-
-17. 
 	
