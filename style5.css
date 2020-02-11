@@ -47,9 +47,9 @@
 .mm-group-sec-37-btm-dsc p span,
 .mm-group-sec-34-tp-dsc p span {
     background-repeat: no-repeat!important;
-    background-size: 100%!important;
+    background-size: 100% 100%!important;
     background-position: center center!important;
-    padding: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px !important;
     margin-left: -4px;
     margin-right: -4px;
 }
@@ -140,12 +140,19 @@
 	line-height: 1.5;
 	margin-bottom: 13px;
 }
-.mm-group-sec-34-mid-dsc p span,
 .mm-group-sec-37-block p span {
     background-repeat: no-repeat!important;
-    background-size: 100%!important;
+    background-size: 100% 100%!important;
+    background-position: center center!important;
+    padding: 3px 5px 3px 8px;
+}
+
+.mm-group-sec-34-mid-dsc p span{
+    background-repeat: no-repeat!important;
+    background-size: 100% 100%!important;
     background-position: center bottom 1px!important;
-    padding: 7px 7px 7px 7px;
+    padding: 1px 22px 6px 7px;
+    margin-left: -5px;
 }
 .mm-group-sec-34-mid-dsc p span strong,
 .mm-group-sec-37-block p span strong{
@@ -284,6 +291,9 @@
 	.mm-group-sec-32-img-tp {
 	    padding-bottom: 30px;
 	}
+	.mm-group-sec-32 {
+	    padding-top: 50px;
+	}
 
 }
 
@@ -315,6 +325,10 @@
 	.mm-group-sec-38-profile-dsc p {
 	    font-size: 18px;
 	    line-height: 1.2;
+	}
+	.mm-group-sec-38-dsc {
+	    padding-right: 10px;
+	    padding-left: 10px;
 	}
 }
 
