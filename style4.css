@@ -25,7 +25,7 @@
 }
 .mm-grp-24-item-inner{
 	background: #fff;
-	border: 10px solid #fff;
+	padding: 10px;
 	-webkit-box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
 	-moz-box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
 	box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
@@ -45,36 +45,31 @@
 	clear: left;
 }
 .mm-grp-24-item-hdr{
-	height: 260px;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: center center; 
+	min-height: 260px;
+	background-repeat: no-repeat !important;
+	background-size: cover !important;
+	background-position: center center !important; 
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-left: -10px;
-    margin-right: -10px;
 }
 .mm-grp-24-item-hdr h4{
 	color: #ffe400;
 	font-family: "Montserrat-Bold";
 	font-weight: 700;
+	margin-bottom: 0;
 }
 .mm-grp-24-item-des{
-	margin-left: 20px;
-	margin-top: 30px;
+	padding-left: 20px;
+	padding-top: 30px;
 	padding-bottom: 10px;
 }
-/*.mm-grp-24-item-des p{
-	font-size: 30px;
-	font-family: "Montserrat-Regular";
-	font-weight: 400;
-}*/
+
 .Hmc{
 	min-height: 250px;
 }
 .hmc{
-	min-height: 175px;
+	min-height: 199px;
 }
 .mm-grp-24-inner ul li:first-child .mm-grp-24-item-inner{
 	border-bottom-right-radius: 32px;
@@ -82,10 +77,12 @@
 .mm-grp-24-inner ul li:nth-child(2) .mm-grp-24-item-inner{
 	border-bottom-left-radius: 32px;
 }
-.mm-grp-24-inner ul li:nth-child(3) .mm-grp-24-item-inner{
+.mm-grp-24-inner ul li:nth-child(3) .mm-grp-24-item-inner,
+.mm-grp-24-inner ul li:nth-child(3) .mm-grp-24-item-hdr{
 	border-top-right-radius: 32px;
 }
-.mm-grp-24-inner ul li:last-child .mm-grp-24-item-inner{
+.mm-grp-24-inner ul li:last-child .mm-grp-24-item-inner,
+.mm-grp-24-inner ul li:last-child .mm-grp-24-item-hdr{
 	border-top-left-radius: 32px;
 }
 .mm-grp-24-item-inner{
@@ -125,18 +122,28 @@
     padding: 33px 15px 37px 140px;
     position: relative;
     margin-bottom: 35px;
-    -webkit-box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
-	-moz-box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
-	box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
+    -webkit-box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    -moz-box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+    box-shadow: 0 0 7px 1px rgba(207,205,205,1);
+	background: #fff;
+    border-radius: 25px 0 0 25px;
 }
 .mm-grp-26-hdr strong{
 	position: absolute;
-    left: 30px;
-    top: 25px;
+    left: 0;
+    top: 0;
+    max-width: 150px;
+    width: 100%;
     font-size: 36px;
     line-height: 42px;
     color: #fff;
     font-family: "Anton-Regular";
+    bottom: 0;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: left center !important;
+    border-radius: 25px 0 0 25px;
+    padding: 22px 34px 10px 10px;
 }
 .mm-grp-26-hdr h3{
 	margin: 0;
@@ -282,8 +289,9 @@
 		margin-left: 5px;
 	}
 	.mm-grp-28-row-2-img {
-	    top: 88px;
+	    top: 243px;
 	}
+	
 
 }
 
@@ -310,17 +318,32 @@
 	    padding-top: 40px;
 	    padding-bottom: 20px;
 	}
-	.mm-grp-26-hdr {
-	    max-width: 650px;
-	    background-size: 100% auto !important;
-	    text-align: center;
-	    padding: 20px 15px 20px 91px;
-	    margin-bottom: 35px;
+	.mm-grp-26-hdr h3{
+		font-size: 38px;
 	}
-	.mm-grp-26-hdr strong {
-	    top: 38px;
-	    font-size: 25px;
-	    line-height: 32px;
+	.mm-grp-24-inner ul li {
+	    width: 100%;
+	}
+	.mm-grp-24-inner ul li:first-child .mm-grp-24-item-inner {
+	    border-bottom-right-radius: 0px;
+	}
+	.mm-grp-24-inner ul li:nth-child(2) .mm-grp-24-item-inner {
+	    border-bottom-left-radius: 0px;
+	}
+	.mm-grp-24-inner ul li:nth-child(3) .mm-grp-24-item-inner,
+	.mm-grp-24-inner ul li:nth-child(3) .mm-grp-24-item-hdr {
+	    border-top-right-radius: 0px;
+	}
+	.mm-grp-24-inner ul li:last-child .mm-grp-24-item-inner,
+	.mm-grp-24-inner ul li:last-child .mm-grp-24-item-hdr {
+	    border-top-left-radius: 0px;
+	}
+	.mm-grp-24-item-inner{
+		max-width: 470px;
+		margin: 0 auto;
+	}
+	.mm-grp-24-bg{
+		display: none;
 	}
 	
 }
@@ -335,6 +358,16 @@
 	}
 	.mm-group-sec-31 {
 	    padding-top: 20px;
+	}
+	.mm-grp-26-hdr {
+	    padding: 15px 15px 20px 152px;
+	}
+	.mm-grp-26-hdr h3 {
+	    font-size: 38px;
+	    min-height: 90px;
+	}
+	.mm-grp-26-hdr {
+	    padding: 15px 15px 20px 178px;
 	}
 	
 
