@@ -145,6 +145,9 @@
 	background-position: center center !important;
 	border-radius: 10px 10px 0 0;
 }
+.mm-group-sec-18-tp-dsc{
+	padding-left: 30px;
+}
 .mm-group-sec-18-head h2{
 	margin: 0;
 	position: relative;
@@ -256,7 +259,7 @@
 
 .mm-group-sec-22-rgt-dsc p span{
     background-repeat: no-repeat!important;
-    background-size: 100%!important;
+    background-size: 100% 100%!important;
     background-position: center center!important;
     padding: 0 5px 2px;
     margin-left: -4px;
@@ -310,6 +313,13 @@
 	    padding-left: 20px;
 	    padding-right: 20px;
 	}
+	.mm-group-sec-18-tp-dsc {
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	.mm-group-sec-22-lft-img{
+		padding-left: 0;
+	}
 
 }
 
@@ -320,12 +330,18 @@
 	.mm-group-sec-19-head h3 {
 	    font-size: 38px;
 	}
+	.mm-group-sec-20-head h2 br{
+		display: none;
+	}
 	
 }
 
 @media(max-width: 767px){
 	.mm-group-sec-16 {
 	    padding-top: 50px;
+	}
+	.mm-group-sec-20{
+		padding-top: 50px;
 	}
 	.true-cause-head h2 {
 	    margin-bottom: 25px;
