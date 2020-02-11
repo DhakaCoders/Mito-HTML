@@ -1,3 +1,4 @@
+Part-1
 Page---3
 
 Desktop View
@@ -57,3 +58,34 @@ Desktop View
 16. https://www.screencast.com/t/xYVByMvrkv
 	ai section a left padding ta hobena
 	
+
+Part-2
+Page---5
+
+Desktop View
+-----------------
+1. https://prnt.sc/r0ui4c
+	bg-positon ata daw
+
+2. https://www.screencast.com/t/ZzpYlFdRDid
+	gap kom hobe
+
+3. https://www.screencast.com/t/UnU4A14R
+	bg-postion ata daw
+
+4. https://www.screencast.com/t/P7NzxlbT
+	break hobe
+
+5. https://www.screencast.com/t/rmvLHyJSbm
+	bg-postion ata daw
+
+6. https://www.screencast.com/t/1AdtHmB6
+	italic font-family hobe
+
+7. https://www.screencast.com/t/9hTBVS8jt0G
+	ai space ta (&nbsp;) diye daw. bcoz ai word 2 ta khono brk hoye alada houa jabena . branding text ata
+
+8. https://www.screencast.com/t/ONSKNgUjH
+	aikhane aktu gap besi hobe
+
+9. 
