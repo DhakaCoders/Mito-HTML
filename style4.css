@@ -166,6 +166,16 @@
 .mm-grp-27-row-2-img img{
 	min-height: 630px;
 }
+.mm-grp-27-row-2-des p strong{
+	color: #000000;
+	font-family: "Montserrat-Bold";
+}
+.mm-grp-27-row-3-img{
+	padding-bottom: 20px;
+}
+.mm-grp-27-row-3-img img{
+	width: 100%;
+}
 .mm-grp-28-inner{
 	background: #fff;
 	-webkit-box-shadow: 0px 0px 5px 0px rgba(218,217,217,1);
@@ -203,7 +213,6 @@
 }
 .mm-grp-28-row-2-img{
 	position: absolute;
-	top: 41px;
 	right: 15px;
 	bottom: 0;
 	z-index: 3;
@@ -289,7 +298,7 @@
 		margin-left: 5px;
 	}
 	.mm-grp-28-row-2-img {
-	    top: 243px;
+	    bottom: -20px;
 	}
 	
 
