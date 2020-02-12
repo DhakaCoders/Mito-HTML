@@ -389,6 +389,8 @@
 	.mm-group-sec-19-head h3 {
 	    font-size: 38px;
 	    min-height: 90px;
+	    display: flex;
+	    align-items: center;
 	}
 	.mm-group-sec-19-head {
 	    padding: 15px 15px 20px 178px;
@@ -416,6 +418,7 @@
 	.mm-group-sec-19-head h3 {
 	    font-size: 28px;
 	    min-height: auto;
+	    display: initial;
 	}
 	.mm-group-sec-18-head h2 sup{
 		padding-top: 12px;
