@@ -340,6 +340,9 @@
 	.mm-group-sec-20-head h2 br{
 		display: none;
 	}
+	.mm-group-sec-19-head strong {
+	    padding: 15px 34px 10px 10px;
+	}
 	
 }
 
@@ -393,7 +396,10 @@
 	    align-items: center;
 	}
 	.mm-group-sec-19-head {
-	    padding: 15px 15px 20px 178px;
+	    padding: 15px 15px 15px 178px;
+	}
+	.mm-group-sec-19-head strong {
+	    padding: 18px 34px 10px 10px;
 	}
 	.mm-group-sec-19-head strong span{
 		font-size: 32px;
@@ -412,19 +418,31 @@
 	}
 	.mm-group-sec-19-head strong {
 	    bottom: auto !important;
-	    padding: 18px 34px 10px 10px;
+	    padding: 15px 10px 19px 10px;
+	    position: static;
+	    display: block;
+	    width: 100%;
+	    max-width: 100%;
+	    background: transparent !important;
+	    background-color: #0a51a8 !important;
+	    border-radius: 25px 25px 0 0;
 	}
 	.mm-group-sec-19-head strong span{
 		font-size: 30px;
 	    line-height: 36px;
 	}
 	.mm-group-sec-19-head {
-	    padding: 120px 10px 20px 10px;
+	    padding: 0;
+	    border-radius: 25px 25px 0 0;
 	}
-	.mm-group-sec-19-head h3 {
+	.mm-group-sec-19-head h3{
 	    font-size: 28px;
 	    min-height: auto;
-	    display: initial;
+	    padding: 30px 10px 30px;
+	    display: block;
+	    max-width: 280px;
+	    width: 100%;
+	    margin: 0 auto;
 	}
 	.mm-group-sec-18-head h2 sup{
 		padding-top: 12px;
