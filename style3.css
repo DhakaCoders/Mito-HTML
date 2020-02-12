@@ -142,7 +142,7 @@
 	margin-bottom: 35px;
 	background-repeat: no-repeat !important;
 	background-size: cover !important;
-	background-position: center center !important;
+	background-position: center bottom 1px !important;
 	border-radius: 10px 10px 0 0;
 }
 .mm-group-sec-18-tp-dsc{
@@ -301,6 +301,9 @@
     	text-align: center;
     	padding-bottom: 30px;
     }
+    .mm-group-sec-35-btm-lft-img{
+    	text-align: center;
+    }
     .mm-group-sec-21-img img {
 	    width: auto;
 	}
@@ -319,6 +322,10 @@
 	}
 	.mm-group-sec-22-lft-img{
 		padding-left: 0;
+	}
+	.mm-group-sec-18-img{
+		padding-left: 10px;
+		padding-right: 10px;
 	}
 
 }
@@ -372,7 +379,8 @@
 	    padding-top: 20px;
 	    padding-bottom: 30px;
 	}
-	.mm-group-sec-18-head h2 br{
+	.mm-group-sec-18-head h2 br,
+	.mm-group-sec-23-head h2 br{
 		display: none;
 	}
 	.mm-group-sec-19-head {
@@ -385,7 +393,7 @@
 	.mm-group-sec-19-head {
 	    padding: 15px 15px 20px 178px;
 	}
-	
+
 
 }
 
@@ -413,6 +421,10 @@
 	.mm-group-sec-18-head h2 sup{
 		padding-top: 12px;
 	}
+	.mm-group-sec-19-head{
+		margin-bottom: 30px;
+	}
+
 }
 
 

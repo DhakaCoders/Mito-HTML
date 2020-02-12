@@ -79,10 +79,6 @@
 .mm-grp-9-row-1-des{
 	padding-left: 28px;
 }
-.mm-grp-9-row-1-des p{
-	padding-bottom: 5px;
-	font-weight: 400;
-}
 .mm-grp-9-row-1-des p:last-child{
 	margin-bottom: 15px;
 }
@@ -266,8 +262,8 @@
 	margin-top: 145px;
 }
 .mm-grp-14-row-4-des{
-	margin-left: 30px;
-	margin-top: 70px;
+	padding-left: 30px;
+	padding-top: 70px;
 }
 .mm-grp-14-row-4-img{
 	margin-top: 30px;
@@ -320,11 +316,42 @@
 	.mm-grp-14-row-2-img,
 	.mm-grp-14-row-3-img,
 	.mm-grp-14-row-4-img,
-	.mm-grp-15-row-1-img{
+	.mm-grp-15-row-1-img,
+	.mm-grp-27-row-3-img{
         text-align: center !important;
-        padding-bottom: 20px !important;
+        padding-bottom: 30px !important;
         margin-left: 0!important;
         margin-right: 0!important;
+    }
+    .mm-grp-sec-8-row-1-img img,
+    .mm-grp-sec-8-row-2-img img,
+    .mm-grp-9-row-1-img img,
+    .mm-grp-11-row-1-img img,
+    .mm-grp-12-row-1-img img, .mm-grp-12-row-2-img img,
+    .mm-grp-13-row-3-img img,
+    .mm-grp-14-row-1-img img,
+    .mm-grp-14-row-4-img img,
+    .mm-grp-15-row-1-img img,
+    .mm-grp-25-row-1-img img, .mm-grp-25-row-2-img img, .mm-grp-26-row-1-img img,
+    .mm-grp-27-row-3-img img,
+    .mm-29-row-1-img img,
+    .mm-grp-30-row-1-img img,.mm-grp-31-row-1-img img{
+    	width: auto!important;
+    }
+    .mm-grp-14-row-2-img{
+    	margin-bottom: 0!important;
+    	padding-top: 20px;
+    }
+    .mm-grp-9-row-1-img{
+    	padding-bottom: 0!important;
+    }
+    .mm-grp-9-row-2-img{
+    	background: transparent!important;
+    	text-align: center;
+    	height: auto;
+    }
+    .mm-group-sec-9-hdr h2 br{
+    	display: none;
     }
     .mr-20{
 		margin-right: 0;
@@ -361,7 +388,9 @@
 	    padding-top: 30px;
 	}
 	.mm-grp-14-row-4-des {
-	    margin-top: 45px;
+	    margin-top: 0;
+	    padding-top: 0;
+	    padding-bottom: 2px;
 	}
 	.mm-grp-14-row-4-img {
 	    margin-top: 0px;
@@ -373,7 +402,17 @@
 	.mm-grp-12-row-1-img {
 	    margin-bottom: 0px;
 	}
-
+	.mm-grp-9-row-2-des,
+	.mm-grp-9-row-1-des{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.mm-grp-9-row-2-img{
+		padding-top: 20px;
+	}
+	.mm-grp-10-img img{
+		min-height: auto;
+	}
 }
 
 @media(max-width: 991px){
@@ -403,9 +442,6 @@
 	    padding-bottom: 20px;
 	}
 	.mm-grp-14-row-4-des {
-	    margin-top: 20px;
-	}
-	.mm-group-sec-15 {
 	    margin-top: 20px;
 	}
 	.mm-grp-15-hdr h2 {

@@ -357,13 +357,13 @@
 	     font-size: 20px;
 	}
 	h1 {
-	  font-size: 60px
+	  font-size: 55px
 	}
 	h2 {
-	  font-size: 50px
+	  font-size: 45px
 	}
 	h3 {
-	  font-size: 44px
+	  font-size: 40px
 	}
 	h4 {
 	  font-size: 30px
@@ -373,6 +373,12 @@
 	}
 	p {
 	 margin-bottom: 20px;
+	}
+	.mm-group-sec-37-btm-dsc ul li, 
+	.mm-group-sec-35-list-dsc ul li, 
+	.mm-group-sec-17-dsc ul li, 
+	.mm-group-sec-17-middle-dsc ul li{
+		font-size: 20px!important;
 	}
 	.mm-group-sec-1-inr p,
 	.mm-group-sec-1-testi em{

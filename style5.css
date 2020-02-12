@@ -250,6 +250,9 @@
 		text-align: center;
 		padding-bottom: 30px;
 	}
+	.mm-group-sec-38-tp-img{
+		text-align: center;
+	}
 	.mm-group-sec-33-head h1 {
 	    font-size: 75px;
 	}
@@ -296,6 +299,9 @@
 	}
 	.mm-group-sec-38-tp-img {
 	    padding-bottom: 30px;
+	}
+	.mm-group-sec-37-img img{
+		width: auto;
 	}
 
 }
