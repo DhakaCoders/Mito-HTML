@@ -132,26 +132,33 @@
     border-radius: 25px 0 0 25px;
 }
 .mm-grp-26-hdr strong{
+	
+    font-size: 36px;
+    line-height: 42px;
+    color: #fff;
+    font-family: "Anton-Regular";
+    
+}
+.mm-grp-26-hdr h3{
+	margin: 0;
+    color: #071a42;
+    text-align: center;
+}
+.mm-grp-26-hdr-cntlr{
+	display: flex;
+	align-items: center;
+	justify-content: center;
 	position: absolute;
     left: 0;
     top: 0;
     max-width: 145px;
     width: 100%;
-    font-size: 36px;
-    line-height: 42px;
-    color: #fff;
-    font-family: "Anton-Regular";
     bottom: 0;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     background-position: left center !important;
     border-radius: 25px 0 0 25px;
     padding: 22px 34px 10px 10px;
-}
-.mm-grp-26-hdr h3{
-	margin: 0;
-    color: #071a42;
-    text-align: center;
 }
 .mm-grp-26-row-1-des{
 	padding-right: 5px;
