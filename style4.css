@@ -387,6 +387,13 @@
 	.mm-grp-27-hdr h2 br{
 		display: none;
 	}
+	.mm-grp-26-hdr {
+	    padding: 33px 15px 37px 185px;
+	}
+	.mm-grp-26-hdr strong {
+	    max-width: 175px;
+	    width: 100%;
+	}
 	
 }
 
@@ -399,20 +406,40 @@
 	    padding-top: 15px;
 	}
 	.mm-grp-26-hdr {
-	    padding: 15px 15px 20px 152px;
+	    padding: 15px 15px 20px 185px;
 	}
 	.mm-grp-26-hdr h3 {
 	    font-size: 38px;
 	    min-height: 90px;
 	}
 	.mm-grp-26-hdr {
-	    padding: 15px 15px 20px 178px;
+	    padding: 15px 15px 20px 185px;
+	}
+	.mm-grp-26-hdr strong {
+	    max-width: 182px;
+	    width: 100%;
+	    padding: 35px 34px 35px 10px;
+	}
+	.mm-grp-26-hdr strong span{
+		font-size: 32px;
+		line-height: 37px;
 	}
 	
 
 }
 
 @media(max-width: 575px){
-	
-	
+	.mm-grp-26-hdr {
+	    padding: 135px 15px 20px 15px;
+	}
+	.mm-grp-26-hdr strong {
+	    max-width: 150px;
+	    width: 100%;
+	    padding: 20px 20px 20px 10px;
+	    bottom: auto !important;
+	}
+	.mm-grp-26-hdr strong span{
+		font-size: 30px;
+		line-height: 36px;
+	}
 }
