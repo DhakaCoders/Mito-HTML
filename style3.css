@@ -404,15 +404,14 @@
 	    padding-left: 10px;
 	    padding-right: 10px;
 	}
-	.mm-group-sec-19-head {
-	    padding: 15px 15px 20px 155px;
+	.mm-group-sec-19-head strong {
+	    font-size: 30px;
+	    line-height: 36px;
+	    bottom: auto !important;
+	    padding: 18px 34px 10px 10px;
 	}
-	.mm-group-sec-19-head strong{
-		display: none;
-	}
 	.mm-group-sec-19-head {
-	    padding: 20px 15px 20px 15px;
-	    border-radius: 0;
+	    padding: 115px 10px 20px 10px;
 	}
 	.mm-group-sec-19-head h3 {
 	    font-size: 28px;
