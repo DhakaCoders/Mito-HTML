@@ -910,6 +910,7 @@ h5 {
 }
 .mm-group-sec-15{
   margin-top: 50px;
+  padding-bottom: 5px;
 }
 .mm-grp-15-hdr h2{
   margin: 0;
@@ -1085,6 +1086,7 @@ h5 {
 .mm-group-sec-18-head h2{
   margin: 0;
   position: relative;
+  line-height: 1.4;
 }
 .mm-group-sec-18-head h2 sup {
     font-size: 16px;
