@@ -286,7 +286,36 @@ strong{ font-weight: normal }
     padding-left: 5px!important;
     padding-right: 5px!important
 }
-
+.mt-5{
+  margin-top: 5px;
+}
+.mt-10{
+  margin-top: 10px;
+}
+.mt-15{
+  margin-top: 15px;
+}
+.mt-20{
+  margin-top: 20px;
+}
+.mt-25{
+  margin-top: 25px;
+}
+.mt-30{
+  margin-top: 30px;
+}
+.mt-35{
+  margin-top: 35px;
+}
+.mt-40{
+  margin-top: 40px;
+}
+.mt-45{
+  margin-top: 45px;
+}
+.mt-50{
+  margin-top: 50px;
+}
 
 h1 {
   font-size: 70px
@@ -315,7 +344,7 @@ h5 {
   overflow: hidden;
 }
 .mm-group-sec-1{
-  padding: 62px 0 110px;
+  padding: 60px 0 110px;
   color: #fff;
   background-size: cover!important;
   background-repeat: no-repeat!important;
@@ -334,11 +363,11 @@ h5 {
   padding: 0 0 45px 135px;
 }
 .mm-group-sec-1-inr p{
-  margin-bottom: 30px;
+  margin-bottom: 32px;
   padding-left: 60px;
   font-size: 32px;
-  line-height: 36px;
-    font-family: "Asap-Regular";
+  line-height: 40px;
+  font-family: "Asap-Regular";
 }
 .mm-group-sec-1 h1{
   text-transform: uppercase;
@@ -372,7 +401,7 @@ h5 {
 
 
 .mm-group-sec-2{
-  padding: 65px 0 55px;
+  padding: 65px 0 65px;
 }
 .mm-group-sec-2-row-1-img{
   padding-top: 5px;
@@ -420,7 +449,7 @@ h5 {
 }
 
 .mm-group-sec-4{
-  padding: 55px 0 9px;
+  padding: 55px 0 15px;
 }
 .mm-group-sec-4-hdr{
   text-align: center;
@@ -570,7 +599,7 @@ h5 {
 
 
 .mm-group-sec-6{
-  padding: 50px 0 25px;
+  padding: 50px 0 35px;
 }
 .mm-group-sec-6-hdr{
   text-align: center;
@@ -677,6 +706,7 @@ h5 {
   color: #fff;
   text-transform: capitalize;
   margin: 0;
+  line-height: 4;
 }
 .mm-grp-9-row-1-des{
   padding-left: 28px;
@@ -707,9 +737,10 @@ h5 {
 }
 .mm-group-sec-10{
   padding-top: 50px;
+  padding-bottom: 20px;
 }
 .mm-grp-10-hdr{
-  padding-bottom: 35px; 
+  padding-bottom: 40px; 
   text-align: center;
 }
 .mm-grp-10-hdr h2{
@@ -729,6 +760,9 @@ h5 {
   background-repeat: no-repeat !important;
   padding-top: 70px;
   padding-bottom: 20px;
+}
+.mm-grp-11-row-1-img img{
+  margin-top: -5px;
 }
 .mm-grp-11-hdr h2{
   margin: 0;
