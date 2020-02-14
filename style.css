@@ -224,8 +224,17 @@ img {
   max-width: 1175px;
   width: 100%;
 }
-
-
+sub, sup {
+  text-transform: none;
+  font-size: 70%;
+}
+h1 sub, h1 sup,
+h2 sub, h2 sup,
+h3 sub, h3 sup,
+h4 sub, h4 sup{
+  font-family: "Anton-Regular";
+  font-size: 60%;
+}
 .container-lg:before,
 .container-lg:after{
   content: "";
@@ -706,7 +715,7 @@ h5 {
   color: #fff;
   text-transform: capitalize;
   margin: 0;
-  line-height: 4;
+  line-height: 1.4;
 }
 .mm-grp-9-row-1-des{
   padding-left: 28px;
@@ -824,7 +833,7 @@ h5 {
 .mm-grp-13-hdr h2{
   margin: 0;
   text-align: center;
-  margin-bottom: 32px;
+  margin-bottom: 40px;
   font-weight: 400;
   color: #071a42;
   text-transform: capitalize;
@@ -1209,7 +1218,7 @@ h5 {
 }
 
 .mm-group-sec-23{
-  padding: 45px 0;
+  padding: 45px 0 15px;
 }
 
 .mm-group-sec-22-rgt-dsc p span {
@@ -1442,6 +1451,7 @@ h5 {
   color: #fff;
   text-transform: capitalize;
   padding-bottom: 30px;
+  line-height: 1.4;
 }
 .mm-grp-28-row-1-img,
 .mm-grp-28-row-2-des{
@@ -1488,6 +1498,12 @@ h5 {
   font-weight: 400;
   margin: 0;
   margin-bottom: 35px;
+}
+.mm-grp-30-hdr h2 sup {
+    font-size: 14px;
+    vertical-align: top;
+    top: 10px;
+    font-family: "Anton-Regular";
 }
 .mm-grp-30-row-1-img{
   text-align: right;
@@ -1686,12 +1702,13 @@ h5 {
 }
 .mm-group-sec-38{
   margin-top: -20px;
+  padding-bottom: 40px;
 }
 .mm-group-sec-38 .mm-group-sec-18-head {
     padding: 20px 20px 28px;
 }
 .mm-group-sec-38 .mm-group-sec-18-wrp{
-  margin-bottom: 30px;
+  margin-bottom: 35px;
   padding-bottom: 0;
 }
 .mm-group-sec-38-block-wrp{
@@ -1815,7 +1832,7 @@ span.text-inline-mark-left{
 }
 .fl-ftr-top-sec ul li a{
     color: #0925d1;
-    font-family: "Montserrat-Light";
+    font-family: "Montserrat-Regular";
 }
 .fl-ftr-top-sec ul li{
     padding-bottom: 20px;
@@ -3123,6 +3140,31 @@ span.text-inline-mark-left{
     .fl-pkg-save-price del{
       font-size: 39px;
     }
+    .mm-group-sec-1 h1{
+      text-align: center;
+    }
+  .mm-group-sec-1-inr > span,
+  .mm-group-sec-1-testi em,
+  .mm-group-sec-1-inr p,
+  .mm-group-sec-1-testi span{
+      padding-left: 0;
+      text-align: center;
+  }
+  .mm-group-sec-12-full-img,
+  .mm-group-sec-12-full-img-2{
+    padding-bottom: 30px;
+  }
+  .mm-grp-14-row-4-des{
+    margin-top: 0;
+  }
+  .mm-group-sec-2-row-3-des,
+  .mm-group-sec-17-middle-dsc,
+  .mm-group-sec-13-tp-dsc{
+    padding-top: 0;
+  }
+  .mm-group-sec-4-con ul{
+    padding-bottom: 0;
+  }
 }
 
 
